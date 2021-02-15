@@ -1,0 +1,20 @@
+{
+  "name": "vue-ssr",
+  "version": "1.0.0",
+  "description": "搭建ssr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@lq.github.com:JoiceRabbit/vue-ssr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.12",
+    "vue-server-renderer": "^2.6.12"
+  }
+}
